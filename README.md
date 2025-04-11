@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kanyinsola... you can call me KY 
+- 👋 Hi, I’m Kanyinsola... 
 - 💡 I help SaaS companies simplify processes and deliver better solutions. With experience in business analysis, product ownership, and ServiceNow Platform.
 - 🔌 You might see some ServiceNow app development projects here. While not mandatory for a BA, I’m going full circle so I can work on complex implementations and bridge the gap between technical and business realms.
 - 💞️ I’m looking to collaborate on different projects
